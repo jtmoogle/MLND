@@ -3,6 +3,7 @@
 >This is prepared for Udacity Machine Learning Engineer Nanodegree online class   
 >Author: "jtmoogle @github.com     All Rights Reserved"    
 >Date: "May 18, 2017"
+
 **Project 1 : Predicting Boston Housing Prices**
 
  	Folder location: projects/boston_housing/
@@ -15,6 +16,7 @@
   
 
 >Date: "April 30, 2017"
+
 **Project 0 Titanic Survival Exploration**
 
  	Folder location: projects/titanic_survival_exploration 
