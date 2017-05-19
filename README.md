@@ -4,6 +4,7 @@
 >Author: "jtmoogle @github.com     All Rights Reserved"    
 >Date: "May 18, 2017"
 **Project 1 : Predicting Boston Housing Prices**
+
  	Folder location: projects/boston_housing/
   - Jupyter notebook file =  	boston_housing.ipynb
   Viewable in browser: https://github.com/jtmoogle/MLND/blob/master/projects/boston_housing/boston_housing.ipynb
@@ -13,6 +14,7 @@
 
 >Date: "April 30, 2017"
 **Project 0 Titanic Survival Exploration**
+
  	Folder location: projects/titanic_survival_exploration
   Submission Files 
   - Jupyter notebook file = titanic_survival_exploration.ipynb  
